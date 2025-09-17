@@ -18,7 +18,7 @@ This repository follows a systematic 3-step workflow:
 
 - `commands/` - Workflow commands and scripts
 - `agents/` - Specialized agent configurations
-- `spec_metadata/` - Specification and metadata files
+- `hack/` - spec_metadata.sh script
 
 ## Getting Started
 
